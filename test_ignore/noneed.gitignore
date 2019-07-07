@@ -1,0 +1,11 @@
+#ignores secret.js
+secret.js
+
+#ignores files starting with "log"
+log*
+
+#ignores all .txt files
+.txt
+
+#ignore packages dir
+packages/
